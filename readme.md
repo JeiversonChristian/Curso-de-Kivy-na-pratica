@@ -22,6 +22,14 @@ link para o curso: <a href="https://www.youtube.com/watch?v=WiyF3VsL5dY&list=PLs
 <p> 
     <ul>
         <li>O que é o Box Layout.</li>
-        <li>Como adicionar elementos no Box Layout.</li>
+        <li>Como adicionar elementos (widgets) no Box Layout.</li>
+    </ul>
+</p>
+
+### 3ª Aula
+<p> 
+    <ul>
+        <li>Modificar propriedades dos widgets. </li>
+        <li>Como fazer o botão acionar uma função que modifica uma propriedade de um widget.</li>
     </ul>
 </p>
