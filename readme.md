@@ -8,10 +8,20 @@ link para o curso: <a href="https://www.youtube.com/watch?v=WiyF3VsL5dY&list=PLs
 
 <br>
 
-## 1ª Aula
+## O que aprendi:
+
+### 1ª Aula
 <p> 
     <ul>
-        <li>Aprendi como instalar e importar a biblioteca Kivy.</li>
-        <li>Aprendi como criar uma janela e um botão.</li>
+        <li>Como instalar e importar a biblioteca Kivy.</li>
+        <li>Como criar uma janela e um botão.</li>
+    </ul>
+</p>
+
+### 2ª Aula
+<p> 
+    <ul>
+        <li>O que é o Box Layout.</li>
+        <li>Como adicionar elementos no Box Layout.</li>
     </ul>
 </p>
