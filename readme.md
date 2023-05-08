@@ -33,3 +33,11 @@ link para o curso: <a href="https://www.youtube.com/watch?v=WiyF3VsL5dY&list=PLs
         <li>Como fazer o botão acionar uma função que modifica uma propriedade de um widget.</li>
     </ul>
 </p>
+
+### 4ª Aula
+<p> 
+    <ul>
+        <li>Linguagem kivy. </li>
+        <li>Refiz o código da aula 03, mas utilizando a linguagem kivy (com exceção do 'soltei').</li>
+    </ul>
+</p>
