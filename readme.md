@@ -41,3 +41,11 @@ link para o curso: <a href="https://www.youtube.com/watch?v=WiyF3VsL5dY&list=PLs
         <li>Refiz o código da aula 03, mas utilizando a linguagem kivy (com exceção do 'soltei').</li>
     </ul>
 </p>
+
+### 5ª Aula
+<p> 
+    <ul>
+        <li>Como adicionar os widgets dinamicamente. </li>
+        <li>O que é o super() e o que é o **kwargs.</li>
+    </ul>
+</p>
